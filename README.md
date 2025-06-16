@@ -38,3 +38,12 @@ GTKWave is a waveform viewer used to visualize digital signal transitions and de
 
 4. Visual Studio Code (VS Code)
 All coding was done using Visual Studio Code, which provided a clean interface and support for Verilog extensions. It also allowed easy access to an integrated terminal to run simulation commands directly.
+
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/32866cc7-6454-465b-9f61-cb841
+
+![Image](https://github.com/user-attachments/assets/50e46857-9cbb-47b6-808b-d6c2cd9d083b)
+
+30309e8)
